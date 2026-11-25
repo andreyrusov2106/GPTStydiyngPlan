@@ -180,7 +180,7 @@
 - [x] ProblemDetails и обработка исключений.
 
 ### Углубление
-- [ ] Жизненные циклы DI: Singleton, Scoped, Transient.
+- [x] Жизненные циклы DI: Singleton, Scoped, Transient.
 - [ ] Порядок выполнения Middleware.
 - [ ] Model Binding и Model Validation.
 - [ ] Фильтры ASP.NET Core.
