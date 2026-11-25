@@ -182,16 +182,16 @@
 ### Углубление
 - [x] Жизненные циклы DI: Singleton, Scoped, Transient.
 - [x] Порядок выполнения Middleware.
-- [ ] Model Binding и Model Validation.
-- [ ] Фильтры ASP.NET Core.
-- [ ] API Versioning.
-- [ ] Rate Limiting.
-- [ ] Caching.
-- [ ] Логирование и структурированные логи.
-- [ ] Health Checks.
-- [ ] Bearer Authentication Middleware: разобраться в полном цикле аутентификации.
-- [ ] Обработка ошибок в production.
-- [ ] Безопасность Web API.
+- [x] Model Binding и Model Validation.
+- [x] Фильтры ASP.NET Core.
+- [x] API Versioning.
+- [x] Rate Limiting.
+- [x] Caching.
+- [x] Логирование и структурированные логи.
+- [x] Health Checks.
+- [x] Bearer Authentication Middleware: разобраться в полном цикле аутентификации.
+- [x] Обработка ошибок в production.
+- [x] Безопасность Web API.
 
 ---
 
