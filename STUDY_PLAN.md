@@ -181,7 +181,7 @@
 
 ### Углубление
 - [x] Жизненные циклы DI: Singleton, Scoped, Transient.
-- [ ] Порядок выполнения Middleware.
+- [x] Порядок выполнения Middleware.
 - [ ] Model Binding и Model Validation.
 - [ ] Фильтры ASP.NET Core.
 - [ ] API Versioning.
